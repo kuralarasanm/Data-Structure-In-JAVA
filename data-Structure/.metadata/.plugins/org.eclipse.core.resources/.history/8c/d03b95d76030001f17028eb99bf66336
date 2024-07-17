@@ -1,0 +1,12 @@
+package DataStructureOnline;
+
+
+import java.util.Arrays;
+
+public class BubbleSort {
+	public static void main(String[] args) {
+		int a[]= {10,5,84,94,39,6};
+		System.out.println(Arrays.toString(a));
+		
+	}
+}
